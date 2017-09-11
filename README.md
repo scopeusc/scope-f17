@@ -10,7 +10,7 @@ This is the Scope Fall 2017 GitHub curriculum repository! Here you'll find proje
 5. Lesson 4: Tying Everything Together
 
 ### Using This Repo
-To use this repo properly, first follow [lesson 0](#) to get Git, Node.js, and React Native setup on your machine.
+To use this repo properly, first follow [lesson 0](lesson-0/README.md) to get Git, Node.js, and React Native setup on your machine.
 
 For every lesson, there's a project and a README.md that corresponds to that project. The project will contain the full finished code for that lesson and the README.md will walk you step-by-step on how to build that week's project from scratch.
 
