@@ -12,10 +12,6 @@ This is the Scope Fall 2017 GitHub curriculum repository! Here you'll find proje
 ### Using This Repo
 To use this repo properly, first follow [lesson 0](#) to get Git, Node.js, and React Native setup on your machine.
 
-Then, clone this repository using `git clone` into a folder of your choosing. Whenever there is an update to this repository, you can run `git pull` to update and get the latest resources.
-
 For every lesson, there's a project and a README.md that corresponds to that project. The project will contain the full finished code for that lesson and the README.md will walk you step-by-step on how to build that week's project from scratch.
-
-Ocassionally, you will be told to `git clone` another repository. In that case, that lesson's README.md will provide you the link to where to download the right repository.
 
 We hope you'll follow along our curriculum and get started building React Native apps. It's going to be a fun semester and we're glad you're a part of it!
