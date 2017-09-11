@@ -24,7 +24,7 @@ export default class App extends React.Component {
   funData = [
     {
       title: 'Retreats',
-      description: 'Every semester, we go on a retreat to somewhere fun for a night. These retreats are a lot of fun and you do not want to miss'
+      description: 'Every semester, we go on a retreat to somewhere fun for a night. These retreats are a lot of fun and very memorable'
     },
     {
       title: 'Parties',
@@ -32,7 +32,7 @@ export default class App extends React.Component {
     },
     {
       title: 'Recruitment Events',
-      description: 'This semester, we have exciting events with Facebook, Google, and the CIA planned'
+      description: 'This semester, we have exciting events with Facebook, Google, Twitter, Disney, and the CIA planned'
     },
     {
       title: 'Learning',

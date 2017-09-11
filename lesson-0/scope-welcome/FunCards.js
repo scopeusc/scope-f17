@@ -15,7 +15,6 @@ import {
 } from 'react-native';
 
 class FunCards extends Component {
-
   state = {
     fadeOpacity: new Animated.Value(0)
   }
