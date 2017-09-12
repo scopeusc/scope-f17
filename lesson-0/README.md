@@ -21,7 +21,7 @@ In addition, though you won’t be coding in this lesson, you should download a 
 2. If you don’t have one already, set up an account with GitHub, a platform for code sharing and collaboration. Create an account at https://github.com 
 3. Once you’ve setup your profile,  visit https://help.github.com/articles/set-up-git/ for Git installation and setup instructions on your local machine
     * Once Git is installed, you need to link your Git with a credential manager so you can authenticate into GitHub. Follow the instructions on the same page.
-4. Once Git is setup, fill out this [Google form](#) with your GitHub username so you can be added the Scope USC GitHub repository
+4. Once Git is setup, fill out this onboarding [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc6uhjtJxuHir5Ki1YP8a95xneqVmdthXOaKWEbs3lbjJ-qCw/viewform?usp=sf_link). Let us know your GitHub username so we can add you to the repository (as well as additional info to help us throughout this semester)
 5. Now you have Node.js, NPM, Git, and GitHub set up! If you’re stuck, feel free to ask for help on the slack #help channel. Next, we will install the necessary software necessary for React Native development.
     * Run the command `npm install -g create-react-native-app`
     * This command will install a “global” package that will allow you to generate starting templates for React Native apps
