@@ -27,16 +27,16 @@ In addition, though you won’t be coding in this lesson, you should download a 
     * This command will install a “global” package that will allow you to generate starting templates for React Native apps
     * Once installation is complete, you can run the command `create-react-native-app [app name]` to generate the basic project structure for a React Native app. For this lesson, you won’t be asked to use this command but we’ll be using it in the future to generate our projects.
 6. Next, clone the Fall 2017 React Native repository onto your local machine. This will be the repository containing essential code for lessons and assignments.
-    * To copy this code onto your machine, run the command `git clone https://github.com/scopeusc/scope-f17` in your folder of choice
+    * To copy this code onto your machine, run the command `git clone https://github.com/scopeusc/scope-f17.git` in your folder of choice
     * **RECOMMENDATION:** Create a dedicated Scope folder on your machine for the curriculum repository, future assignment code, and our project
-7. After cloning the curriculum repo, in your command line tool, cd into `scope-f17/lesson-0/f17-welcome`.
-8. Run npm install to install the necessary dependencies. 
+7. After cloning the curriculum repo, in your command line tool, cd into `scope-f17/lesson-0/scope-welcome`.
+8. Run `npm install` to install the necessary dependencies. 
     * What’s happening here is that every Node project has a package.json file that lists out the applications dependencies and package settings. The install command will use this package.json file to find, download, then install the necessary packages into your current working folder
 9. If installation is successful, you can then run the app either on your phone or using an iOS/Android simulator. 
 10. To run the app on your phone, download Expo (https://expo.io) on your mobile phone (iOS or Android). Then, on your computer, run the command `npm start`
     * This will start the package manager and should print out a QR code and a URL. In the Expo app on your phone, you can either take a pic of the QR code or enter in the URL manually. 
     * If all goes well, the app should be running on your phone!
-    * Note: Expo only works if your computer and phone are on the same wireless network. If both are on the same network and it still doesn’t work, you can either use your phone’s hotspot on your laptop or try running the app in a simulator. There might be issues if you're using USC's public WiFi. If this is the case, follow the next step to get your app running via a simulator
+    * Note: Expo only works if your computer and phone are on the same wireless network. If both are on the same network and it still doesn’t work, you can either use your phone’s hotspot on your laptop or try running the app in a simulator. There might be issues if you're using USC's public WiFi. If this is the case and you don't want to use your phone's hotspot, follow the next step to get your app running via a simulator
 11. To run the app on a simulator, follow the instructions on this page: https://facebook.github.io/react-native/releases/next/docs/getting-started.html. Click “Building Projects with Native Code” and follow the steps to download either Android Studio or XCode.
     * Once you have either one installed, run the command `npm run android` or `npm run ios` (pending on which phone OS you want to target) inside the f17-welcome folder
     * If all goes well, the app should be running in a simulator on your machine!
