@@ -17,7 +17,7 @@ In addition, though you won’t be coding in this lesson, you should download a 
     * Accept the default settings if any options pop up during the process
     * Run  `node -v`  in your command line tool to see if Node was installed. You should see a version number pop up.
     * Node installations should include NPM, a package manager for Javascript. To test if this was installed properly, run  `npm -v`
-    * If any issues occur during Node’s installation (or any further steps), ask for help in our **#help** slack channel
+    * If any issues occur during Node’s installation (or any further steps), ask for help in our **#react-native** slack channel
 2. If you don’t have one already, set up an account with GitHub, a platform for code sharing and collaboration. Create an account at https://github.com 
 3. Once you’ve setup your profile,  visit https://help.github.com/articles/set-up-git/ for Git installation and setup instructions on your local machine
     * Once Git is installed, you need to link your Git with a credential manager so you can authenticate into GitHub. Follow the instructions on the same page.
