@@ -1,4 +1,4 @@
-/*
+npm /*
   Scope Welcome
   ---
   Author: Wilhelm Willie, 2017
@@ -8,9 +8,9 @@
 */
 
 import React from 'react';
-import { 
-  StyleSheet, 
-  Text, 
+import {
+  StyleSheet,
+  Text,
   View,
   TouchableHighlight,
   ScrollView
@@ -45,7 +45,7 @@ export default class App extends React.Component {
   }
 
   // Called when the fun button is pressed. Will turn the variable showFun
-  // to true which will reveal the FunCards 
+  // to true which will reveal the FunCards
   activateFun = () => {
     this.setState({
       showFun: true
