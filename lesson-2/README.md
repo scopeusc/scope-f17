@@ -148,7 +148,8 @@ Note: In this repository is a finished `flashcards-finished` project that looks 
     * Back to NewCardModal, we won't go to deep into it but essentially, NewCardModal abstracts a bunch of React code and extends the React Native Modal component. We create a basic form with TextInputs, similar to what we did in the `tip-calculator` project, then tie action handlers to the functions we passed in. There are two buttons: a close and add button. When a user taps on the close button, we call the _toggleModal function that was passed as a prop. When they tap the add button, we get the data from the TextInputs and pass it into the _addCard function that was passed as a prop. Take a look at `NewCardModal.js` to get a better feel for how this works
 9. At this point, you should have a full function `flashcards` app. You should be able to scroll through a list of flashcards, tap on cards to flip them, and add flashcards to the current set. Let e-board know once you're done and show us your completed app! Now that you're done, I invite you to play around with the code and try out the following challenges. If you succesfully complete any of the challenges, send screenshots to e-board for potential prizes
 
-## Challenges:
+## Challenges/assignment:
+Try to accomplish the following challenges as an assignment. Publish your version of flashcards as a Git repository on your own GitHub and tag a member of e-board
 * Play with the styles. Try changing colors, font sizes, font families
 * Add an additional field to the flashcard like subject, see if you can get this to display
 * Add the ability to favorite or star a flashcard
